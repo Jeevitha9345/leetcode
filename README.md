@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Maximum Dot Product of Two Subsequences (Dynamic Programming)
 
 Problem Description
@@ -54,3 +55,6 @@ Dynamic Programming
 2D DP Table
 Subsequence logic
 Handling negative values
+=======
+# leetcode
+>>>>>>> 608fab357e1de39fe61893e441a9c123d813ceda
