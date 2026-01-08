@@ -1,3 +1,4 @@
+package Max_Dot_Product;
 public class Max_Dot_Prod {
     public int maxDotProduct(int[] nums1, int[] nums2) {
         int n1 = nums1.length;
