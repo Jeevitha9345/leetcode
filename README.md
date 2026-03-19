@@ -4,4 +4,5 @@ Arrays
 1.Binary search
 2.Sliding window
 3.Two pointers
-4.Kaden's algorithm
+4.Kedane's algorithm
+5.
